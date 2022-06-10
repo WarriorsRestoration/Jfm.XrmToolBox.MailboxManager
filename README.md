@@ -1,1 +1,0 @@
-# Jfm.XrmToolBox.MailboxManager
